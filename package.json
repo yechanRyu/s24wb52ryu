@@ -1,0 +1,24 @@
+{
+  "name": "s24wb52ryu",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "^4.3.4",
+    "express": "^4.19.0",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "s24wb52ryu"
+  },
+  "author": "yechanRyu",
+  "license": "ISC",
+  "description": ""
+}
